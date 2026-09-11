@@ -2,8 +2,8 @@
 
 **Version:** v0.1  
 **Stand:** 09.09.2026  
-**Veröffentlicht:** 11.09.2026
-**Autorin:** Nicole Bremicker · Y-Intelligence
+**Veröffentlicht:** 11.09.2026  
+**Autorin:** Nicole Bremicker · Y-Intelligence  
 
 Eine fachliche Bestätigung kann beim Wechsel zwischen Anwendungen zur vermeintlichen Handlungsfreigabe werden. Im konstruierten Beispiel kann der Inhalt fachlich korrekt sein, die beteiligten Komponenten folgen ihren jeweiligen Spezifikationen – und trotzdem fehlt die gültige Entscheidung für die tatsächlich ausgelöste Wirkung.
 
