@@ -44,7 +44,7 @@ v0.1 ist eine **konzeptionelle und normative Referenz**. Sie ist kein Standard, 
 
 ## Versionierung
 
-Veröffentlichte Stände werden mit Versionsnummer und Veröffentlichungsdatum gekennzeichnet. Fachliche Änderungen am Referenzmodell, am Glossar oder am kanonischen Regelkern werden im [Changelog](CHANGELOG.md) dokumentiert. Zukünftige Fassungen dürfen ältere zitierfähige Stände nicht stillschweigend ersetzen.
+Veröffentlichte Stände werden mit Versionsnummer und Veröffentlichungsdatum gekennzeichnet. Fachliche Änderungen am Referenzmodell, am Glossar oder am kanonischen Regelkern werden im [Changelog](../CHANGELOG.md) dokumentiert. Zukünftige Fassungen dürfen ältere zitierfähige Stände nicht stillschweigend ersetzen.
 
 ## Fachliches Feedback
 
@@ -60,4 +60,4 @@ Fachliches Feedback kann über GitHub Issues eingebracht werden. Kontakt ist au�
 Sofern nicht anders angegeben, stehen die von Nicole Bremicker / Y-Intelligence erstellten Inhalte dieses Repositorys unter der [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 Die Lizenz bezieht sich auf die in diesem Repository veröffentlichten Inhalte des Y-I Referenzmodells. Sie erstreckt sich nicht auf nicht veröffentlichte Y-Intelligence-Methoden, interne Arbeits- und Validierungsverfahren, technische Implementierungen oder sonstiges nicht in diesem Repository enthaltenes Material. Marken, Logos und sonstige Kennzeichen von Y-Intelligence sind nicht Gegenstand der CC-Lizenz.
-Siehe [LICENSE](../LICENSE). 
+Siehe [LICENSE.md](../LICENSE.md). 
