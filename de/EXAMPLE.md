@@ -2,8 +2,8 @@
 
 **Version:** v0.1  
 **Stand:** 09.09.2026  
-**Veröffentlicht:** 11.09.2026
-**Autorin:** Nicole Bremicker · Y-Intelligence
+**Veröffentlicht:** 11.09.2026  
+**Autorin:** Nicole Bremicker · Y-Intelligence  
 
 ## 1. Charakter des Falls
 
