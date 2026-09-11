@@ -2,9 +2,9 @@
 
 **Version:** v0.1  
 **Stand:** 09.09.2026  
-**Veröffentlicht:** 11.09.2026
-**Autorin:** Nicole Bremicker · Y-Intelligence
-**Status:** Kanonische öffentliche Fassung der acht veröffentlichten Regeln
+**Veröffentlicht:** 11.09.2026  
+**Autorin:** Nicole Bremicker · Y-Intelligence  
+**Status:** Kanonische öffentliche Fassung der acht veröffentlichten Regeln  
 
 Die acht Regeln konzentrieren sich auf Befugnis, Informationsgrundlage, Ausführung, Übergang und Rechenschaft. Zusammen mit den Definitionen in [GLOSSARY.md](GLOSSARY.md) reichen sie für die Analyse des Falls in [EXAMPLE.md](EXAMPLE.md).
 
