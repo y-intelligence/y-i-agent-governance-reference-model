@@ -2,8 +2,8 @@
 
 **Version:** v0.1  
 **Stand:** 09.09.2026  
-**Veröffentlicht:** 11.09.2026
-**Autorin:** Nicole Bremicker · Y-Intelligence
+**Veröffentlicht:** 11.09.2026  
+**Autorin:** Nicole Bremicker · Y-Intelligence  
 
 Die folgenden Definitionen gelten innerhalb des **Y-I Referenzmodells für Agent Governance**. Sie ersetzen keine institutionellen oder rechtlichen Begriffsbestimmungen.
 
