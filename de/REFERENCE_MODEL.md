@@ -2,9 +2,9 @@
 
 **Version:** v0.1  
 **Stand:** 09.09.2026  
-**Veröffentlicht:** 11.09.2026
-**Autorin:** Nicole Bremicker · Y-Intelligence
-**Art:** Konzeptionelle und normative Referenz
+**Veröffentlicht:** 11.09.2026  
+**Autorin:** Nicole Bremicker · Y-Intelligence  
+**Art:** Konzeptionelle und normative Referenz  
 
 ---
 
