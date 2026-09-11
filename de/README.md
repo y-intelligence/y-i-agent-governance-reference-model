@@ -34,7 +34,7 @@ Die Referenz richtet sich an Prozess- und Governance-Verantwortliche, technische
 3. [CORE_RULES.md](CORE_RULES.md) – kanonische Fassung der acht veröffentlichten Regeln
 4. [EXAMPLE.md](EXAMPLE.md) – konstruierter Fall „Aus fachlich fertig wird Versand autorisiert“
 5. [SOURCES.md](SOURCES.md) – Quellen, geprüfte Fassungen und verdichtete Einordnung verwandter Arbeiten
-6. [CHANGELOG.md](CHANGELOG.md) – Änderungen nach Version
+6. [CHANGELOG.md](../CHANGELOG.md) – Änderungen nach Version
 
 Wer die Perspektive zuerst an einem konkreten Konflikt nachvollziehen möchte, kann mit [EXAMPLE.md](EXAMPLE.md) beginnen und anschließend den Regelkern lesen.
 
@@ -60,4 +60,4 @@ Fachliches Feedback kann über GitHub Issues eingebracht werden. Kontakt ist au�
 Sofern nicht anders angegeben, stehen die von Nicole Bremicker / Y-Intelligence erstellten Inhalte dieses Repositorys unter der [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 Die Lizenz bezieht sich auf die in diesem Repository veröffentlichten Inhalte des Y-I Referenzmodells. Sie erstreckt sich nicht auf nicht veröffentlichte Y-Intelligence-Methoden, interne Arbeits- und Validierungsverfahren, technische Implementierungen oder sonstiges nicht in diesem Repository enthaltenes Material. Marken, Logos und sonstige Kennzeichen von Y-Intelligence sind nicht Gegenstand der CC-Lizenz.
-Siehe [LICENSE](LICENSE). 
+Siehe [LICENSE](../LICENSE). 
